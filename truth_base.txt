@@ -1,0 +1,100 @@
+Type 2 diabetes risk increases with overweight or obesity.
+Family history of diabetes is a risk factor for developing diabetes.
+Physical inactivity can contribute to the development of type 2 diabetes.
+Smoking increases the risk of developing type 2 diabetes.
+High blood pressure is commonly associated with diabetes.
+A history of gestational diabetes raises the risk of type 2 diabetes.
+Age over 35 increases the risk of type 2 diabetes.
+Certain ethnic backgrounds, such as African American or Hispanic, have higher diabetes risk.
+Having prediabetes increases the likelihood of developing type 2 diabetes.
+Polycystic ovary syndrome is a risk factor for type 2 diabetes.
+Excess abdominal fat is linked to higher diabetes risk.
+Insulin resistance is a key factor in the development of type 2 diabetes.
+Pancreatic disease or injury can lead to diabetes.
+Some genetic mutations can cause monogenic diabetes.
+Cystic fibrosis can result in diabetes due to pancreatic damage.
+Hemochromatosis can damage the pancreas and cause diabetes.
+Certain endocrine diseases can lead to diabetes.
+Taking some medications, such as steroids, can increase diabetes risk.
+High levels of stress hormones can contribute to diabetes.
+Frequent urination is a common symptom of diabetes.
+Excessive thirst is a classic symptom of diabetes.
+Unexplained weight loss can be a symptom of diabetes.
+Increased hunger, even after eating, may indicate diabetes.
+Fatigue is a frequent symptom in people with diabetes.
+Blurred vision can result from high blood sugar levels.
+Slow-healing sores are a symptom of diabetes.
+Frequent infections, such as urinary tract infections, are seen in diabetes.
+Tingling or numbness in hands or feet can be a symptom of diabetic neuropathy.
+Darkened skin in certain areas, such as the neck, can be a sign of insulin resistance.
+Irritability can be a symptom of blood sugar fluctuations in diabetes.
+Dry mouth is sometimes experienced by people with diabetes.
+Itchy skin can be a symptom of diabetes.
+Yeast infections are more common in people with diabetes.
+Erectile dysfunction can be associated with diabetes in men.
+Poor wound healing is a complication of diabetes.
+Nerve damage is a long-term complication of diabetes.
+Kidney disease can result from poorly controlled diabetes.
+Diabetes increases the risk of heart disease.
+Vision loss can occur as a complication of diabetes.
+High blood sugar can damage blood vessels over time.
+Diabetes can cause increased appetite.
+High blood sugar can cause headaches.
+Diabetes can cause unexplained fatigue.
+Diabetes can lead to increased urination at night.
+Loss of consciousness can occur in severe cases of untreated diabetes.
+Diabetes can cause fruity-smelling breath.
+High blood sugar can cause nausea and vomiting.
+Diabetes can cause unintentional weight loss.
+Diabetes can cause frequent skin infections.
+Diabetes can cause swelling in the feet and ankles.
+Sunburn is not a symptom of diabetes.
+Eating carrots does not cause diabetes.
+Drinking water does not cause diabetes.
+Catching a cold does not cause diabetes.
+Sneezing is not a symptom of diabetes.
+Playing sports does not cause diabetes.
+Taking vitamin C does not cause diabetes.
+Having blue eyes is not a risk factor for diabetes.
+Listening to music does not cause diabetes.
+Wearing glasses does not increase diabetes risk.
+Reading books does not cause diabetes.
+Swimming is not a cause of diabetes.
+Having freckles is not a risk factor for diabetes.
+Getting mosquito bites does not cause diabetes.
+Watching TV does not directly cause diabetes.
+Eating an apple does not cause diabetes.
+Owning a pet does not increase diabetes risk.
+Riding a bicycle does not cause diabetes.
+Laughing is not a symptom of diabetes.
+Having curly hair is not a risk factor for diabetes.
+Drinking plain tea does not cause diabetes.
+Chewing gum does not cause diabetes.
+Wearing a hat does not increase diabetes risk.
+Having a runny nose is not a symptom of diabetes.
+Eating broccoli does not cause diabetes.
+Reading in dim light does not cause diabetes.
+Playing chess does not cause diabetes.
+Having pierced ears is not a risk factor for diabetes.
+Drinking herbal tea does not cause diabetes.
+Getting a sun tan does not cause diabetes.
+Eating spinach does not cause diabetes.
+Having dimples is not a risk factor for diabetes.
+Using a computer does not cause diabetes.
+Wearing red clothes does not increase diabetes risk.
+Having a sore throat is not a symptom of diabetes.
+Eating yogurt does not cause diabetes.
+Drinking milk does not cause diabetes.
+Having a cough is not a symptom of diabetes.
+Eating tomatoes does not cause diabetes.
+Brushing your teeth does not cause diabetes.
+Having straight hair is not a risk factor for diabetes.
+Drinking coffee in moderation does not cause diabetes.
+Having a fever is not a symptom of diabetes.
+Eating oranges does not cause diabetes.
+Wearing jewelry does not increase diabetes risk.
+Having a headache alone is not a specific symptom of diabetes.
+Eating lettuce does not cause diabetes.
+Having a stuffy nose is not a symptom of diabetes.
+Drinking unsweetened tea does not cause diabetes.
+Eating cucumbers does not cause diabetes.
