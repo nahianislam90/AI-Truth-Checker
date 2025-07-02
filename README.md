@@ -29,25 +29,21 @@ from sentence_transformers import SentenceTransformer, util
 Installation
 Clone the repository:
 
-bash
 git clone https://github.com/nahianislam90/ai-truth-checker.git
 cd ai-truth-checker
 Create and activate a virtual environment (recommended):
 
-bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 source venv/bin/activate  # On Linux/Mac
 Install dependencies:
 
-bash
 pip install torch sentence-transformers
 Add your facts to truth_base.txt (or use the provided example).
 
 Usage
 Run the app:
 
-bash
 python app.py
 Enter a claim in the GUI and click "Verify Truth".
 demo:![ai lie truth](https://github.com/user-attachments/assets/e2c35231-ab17-4355-97c2-e6a3098cdf52)
